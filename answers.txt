@@ -1,0 +1,3 @@
+What is the difference between a merge and a rebase?
+
+According to git documentation, rebase reapplies commits on top of another base tip (rewrites history), whereas merge joins two or more development histories together (previous commits are kept).
